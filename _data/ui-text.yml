@@ -28,7 +28,7 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   comments_label             : "Dejar un commentario"
-  comments_title             : "Comentar"
+  comments_title             : "Comentarios"
   comment_form_info          : "Su dirección de correo no será publicada. Se han resaltado los campos requeridos"
   comment_form_comment_label : "Comentario"
   comment_form_md_info       : "Markdown está soportado."
@@ -37,8 +37,8 @@ es: &DEFAULT_ES
   comment_form_website_label : "Sitio web (opcional)"
   comment_btn_submit         : "Enviar Commentario"
   comment_btn_submitted      : "Enviado"
-  comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
-  comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
+  comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez que haya sido aprobado"
+  comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido llenados e intente de nuevo"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
